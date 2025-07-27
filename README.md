@@ -13,6 +13,7 @@ This project uses the **Reddit API (via `praw`)** to fetch recent posts from pop
 - r/Ethereum  
 - r/Solana
 
+
 It applies **VADER sentiment analysis** to both the post content and the top comments, and then visualizes sentiment trends using graphs like:
 
 - Bar charts of sentiment categories
@@ -34,13 +35,13 @@ It applies **VADER sentiment analysis** to both the post content and the top com
 ## 🖼️ Sample Visuals
 
 ### 🔴 Post Sentiment Classification
-![Bar chart of sentiment classes](./assets/sentiment_bar.png)
+![Bar chart of sentiment classes]()
 
 ### 🔵 Score vs Sentiment Scatter Plot
-![Score vs Sentiment](./assets/scatter_plot.png)
+![Score vs Sentiment](.)
 
 ### 🔥 Correlation Heatmap
-![Correlation Heatmap](./assets/heatmap.png)
+![Correlation Heatmap](.)
 
 ---
 
